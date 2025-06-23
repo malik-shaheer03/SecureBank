@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💼 [LinkedIn](https://linkedin.com/in/malik-shaheer03)  
 - 🐙 [GitHub](https://github.com/malik-shaheer03)  
 - 📸 [Instagram](https://instagram.com/malik_shaheer03)  
-- 📧 [Email Me](mailto:youremail@example.com)  
+- 📧 [Email Me](mailto:shaheermalik03@gmail.com)  
 ---
 
 <div align="center">
